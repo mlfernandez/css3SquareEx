@@ -1,0 +1,77 @@
+.padre {
+    height: 20em;
+    width: 20em;
+    background-color: black;
+
+    display: flex; 
+    justify-content: center;
+    align-items:center
+
+
+}
+
+.hijo1 {
+    height: 10em;
+    width: 10em;
+    background-color: white;
+
+    display: flex;
+    flex-direction: column;
+    
+    }
+
+.hijo2 {
+    height: 10em;
+    width: 10em;
+    background-color: red;
+
+    display: flex;
+    flex-direction: column;
+        
+        }     
+
+.nieto1 {
+    height: 12em;
+    width: 4em;
+    background-color: green;
+
+    display: flex;
+    flex-direction: column;
+
+}
+
+.nieto2 {
+    height: 12em;
+    width: 4em;
+    background-color: red;
+
+    display: flex;
+    flex-direction: column;
+    
+}
+
+.nieto3 {
+    height: 12em;
+    width: 4em;
+    background-color: blue;
+
+    display: flex;
+    flex-direction: column;
+    
+}
+
+.bisnieto1 {
+
+    height:6em;
+    width: 4em;
+    background-color: yellow;
+
+}
+
+.bisnieto2 {
+
+    height: 6em;
+    width: 4em;
+    background-color: orange;
+    
+}
