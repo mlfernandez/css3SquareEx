@@ -7,74 +7,71 @@
     justify-content:center;
     align-items:center;
 
-    flex-direction: column-reverse;
-
-
 }
+.rectanguloLeft {
+    height: 20em;
+    width: 10em;
+    background-color: white;
 
-.rectanguloSup {
-    height: 10em;
-    width: 20em;
-    background-color: yellow    
     }
 
-.rectanguloInf {
-    height: 10em;
-    width: 20em;
-    background-color: red;
-        
-        }     
-
-/*.nieto1 {
-    height: 10em;
-    width: 5em;
+.rectanguloRight {
+    height: 20em;
+    width: 10em;
     background-color: black;
-
-    display: flex;
-    flex-direction: column;
-
+        
+    }   
+       
+    
+.cuadradoHijo1{
+    height: 10em;
+    width: 10em;
+    border: black 0.1em solid;
 }
 
-.nieto2 {
+.cuadradoHijo2{
+    height: 10em;
+    width: 10em;
+    background-color:white ;
+    border: black 0.1em solid;
+
+    display: flex;
+    flex-direction: row;
+}
+
+.rectanguloNieto1{
     height: 5em;
     width: 10em;
-    background-color: yellow;
-
-    display: flex;
-    flex-direction: column;
-    
+    background-color: black;
 }
 
+.rectanguloNieto2{
+    height: 5em;
+    width: 10em;
+}
 
-
-.bisnieto1 {
-
-    height:2.5em;
+.cuadradoBis1 {
+    height: 5em;
     width: 5em;
-    background-color: pink;
-
+    background-color: black;
 }
 
-.bisnieto2 {
-
-    height:2.5em;
+.cuadradoBis2 {
+    height: 5em;
     width: 5em;
-    background-color: orange;
-    
+    background-color: white;
 }
 
-.bisnieto3 {
 
-    height:2.5em;
+.cuadradoBis3 {
+    height: 5em;
     width: 5em;
-    background-color: yellow;
-
+    background-color: white;
 }
 
-.bisnieto4 {
 
-    height:5em;
-    width: 2.5em;
-    background-color: orange;
-    
+.cuadradoBis4 {
+    height: 5em;
+    width: 5em;
+    background-color: black;
 }
