@@ -39,15 +39,56 @@
     flex-direction: row;
 }
 
+.cuadradoHijo3{
+    height: 10em;
+    width: 10em;
+    background-color: black;
+    border: black 0.1em solid;
+}
+
+.cuadradoHijo4{
+    height: 10em;
+    width: 10em;
+    background-color:black ;
+    border: black 0.1em solid;
+    display: flex;
+    flex-direction: row;
+}
+
 .rectanguloNieto1{
     height: 5em;
     width: 10em;
-    background-color: black;
+
 }
 
 .rectanguloNieto2{
     height: 5em;
     width: 10em;
+
+}
+
+.rectanguloNieto3{
+    height: 5em;
+    width: 10em;
+    background-color: black;
+}
+
+.rectanguloNieto4{
+    height: 5em;
+    width: 10em;
+    background-color: white;
+}
+
+.rectanguloNieto5{
+    height: 5em;
+    width: 10em;
+    background-color: white;
+}
+
+.rectanguloNieto6{
+    height: 5em;
+    width: 10em;
+    background-color: white;
 }
 
 .cuadradoBis1 {
@@ -62,16 +103,43 @@
     background-color: white;
 }
 
-
 .cuadradoBis3 {
     height: 5em;
     width: 5em;
     background-color: white;
 }
 
-
 .cuadradoBis4 {
     height: 5em;
     width: 5em;
     background-color: black;
+}
+
+.cuadradoBis5 {
+    height: 5em;
+    width: 5em;
+    background-color: white;
+}
+
+.cuadradoBis6 {
+    height: 5em;
+    width: 5em;
+    background-color: white;
+}
+
+.cuadradoBis7 {
+    height: 5em;
+    width: 5em;
+    background-color: black;
+}
+
+.cuadradoBis8 {
+    height: 5em;
+    width: 5em;
+    background-color: black;
+}
+
+.cuadradoBis9 {
+    height: 5em;
+    width: 5em;
 }
